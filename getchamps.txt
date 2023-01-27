@@ -1,0 +1,497 @@
+One-cost TFT Set Eight champions
+Image via Riot Games
+
+Re-roll options exist within Set Eight, featuring a total of 12 one-cost TFT champions.
+Ashe
+
+Ashe gains 40/40/40 percent attack damage from her spell Ranger’s Focus after four seconds while dealing 12/18/25 flat attack damage. Mana is 0/50.
+Ashe Hero Augments
+
+    Laser Focus (Carry): Gain an Ashe. Ashe gains 45 percent attack speed which is doubled while her ability is active.
+    Corps Focus (Support): Gain an Ashe. Upon fielding Ashe, your team gains 15 percent attack speed which is doubled when her ability is active.
+
+Blitzcrank
+
+Blitzcrank creates a field around him with his spell Static Defenses that reduces all damage taken over the course of four seconds. Damage reduction is 55/60/65 percent.
+Blitzcrank Hero Augments
+
+    Dynamic Defenses (Carry): Gain a Gargoyle Stoneplate and a Blitzcrank. Upon Blitzcrank casting his ability, its duration increases by two seconds per enemy targeting him.
+    Rocket Grab (Support): Gain a Blitzcrank. At the start of combat, Blitzcrank pulls the farthest enemy and stuns them for 1.5 seconds. Gain 300 bonus health for Blitzcrank.
+
+Galio
+
+Galio steps back and dashes toward the nearest enemy with Outta My Way!, dealing magic damage. He then grants himself and the closest ally a 200/240/280 shield for a total of four seconds. Mana is 70/140.
+Galio Hero Augments
+
+    Justice Punch (Carry): Gain a Galio. His ability deals 70 percent more damage and knocks up its target for 1.5 seconds.
+    Safety First (Support): Gain a Galio. When you field Galio, your team gains 20 armor and magic resistance, doubling for a total of four seconds after being shielded.
+
+Gangplank
+
+Gangplank casts his spell Trial by Fire, removing all crowd control from himself. He then fires a flaming bullet at his target, dealing 210/315/475 magic damage and reducing healing by 30 percent for eight seconds.
+Gangplank Hero Augments
+
+    Flaming Ricochet (Carry): Gain a Gangplank. Gangplank’s ability to a second target, dealing 90 percent damage.
+    Get Paid (Support): Gain a Gangplank. Upon fielding Gangplank, your team has a 50 percent chance to gain two gold on kill.
+
+Kayle
+
+Upon casting Starfire Spellblade, Kayle’s next three attacks hit her target for 150 percent of attack damage as physical damage and magic damage to enemies within one Hex of her target.
+Kayle Hero Augments
+
+    Divine Ascent (Carry): Gain a Kayle. Kayle gains bonuses at each star level. One-star—30 percent attack speed. Two-star—Plus-three attack range. Three-star—Attacks fire two additional bolts that deal 50 percent damage
+    Righteous Range (Support): Gain a Kayle. Kayle and her two nearest allies gain plus-two attack range and 25 percent attack speed.
+
+Lulu
+
+Lulu fires magic energy at her target through her spell Glitterlance. It deals 260/390/580 magic damage to the first enemy and additional damage to subsequent enemies. Mana is 0/50.
+Lulu Hero Augments
+
+    Growth Spurt (Carry): Gain a Lulu. When Lulu casts her ability, she gains 125 bonus health and 20 ability power. Both increased stats can stack.
+    Foster Growth (Support): Gain a Lulu. Upon fielding Lulu, she and her allies gain 40 ability power when equipped with an item.
+
+Lux
+
+Lux sends a singularity through her spell Lucent Singularity at a random enemy’s location that detonates upon arrival. It deals 200/300/450 damage to nearby enemies and reduces the attack damage of the enemy in the center by 40 percent for a total of four seconds.
+Lux Hero Augments
+
+    Illuminating Singularity (Carry): Gain a Lux. Every second cast from Lux has her ability deal 150 percent increased damage.
+    Lucent Barrier (Support): Gain a Lux. At the start of combat, Lux grants her two nearest allies a 350-health shield and 35-ability power.
+
+Nasus
+
+Nasus slams his staff on his target with Bonk!, dealing a percentage of attack damage as physical damage. His spell also slows the target’s attack speed by 40 percent for three seconds.
+Nasus Hero Augments
+
+    Stacks on Stacks (Carry): Gain a Nasus. Nasus gains 10 percent attack damage, increased by two percent permanently each time he casts his ability.
+    Soul Eater (Support): Gain a Nasus. When you field Nasus, he and allies heal 300 health upon takedowns.
+
+Poppy
+
+Buckler Toss has Poppy chuck her buckler at the farthest enemy, dealing 175/250/375 percent of her armor as magic damage. The buckler then bounces back, granting Poppy a 300/350/425 shield for three seconds that blocks damage. Mana is 40/80.
+Poppy Hero Augments
+
+    Bigger, Better Buckler (Carry): Gain a Poppy. Poppy gains 200 armor.
+    Steadfast Presence (Support): Gain a Poppy. At the start of combat, your strongest Poppy grants all allies a 325 health shield.
+
+Renekton
+
+Renekton empowers himself for eight seconds with Dominus. It has him gain 200/250/300 bonus health and causes his attacks to deal five percent of his maximum health as bonus magic damage.
+Renekton Hero Augments
+
+    Reign of Anger (Carry): Gain a Renekton. Renekton gains 60 percent attack speed and an additional two percent per 100 missing health.
+    Cull the Meek (Support): Gain a Renekton. Upon fielding Renekton, your team deals eight percent bonus damage. The damage is tripled against enemies below 50 percent health.
+
+Sylas
+
+Sylas swings his chains with Battle Blast, healing himself for 150/170/190 health and dealing magic damage to nearby enemies.
+Sylas Hero Augments
+
+    Kingslayer (Carry): Gain a Sylas. Sylas’ ability deals 40 percent more damage and restores 30 percent of his missing health.
+    Petricite Chains (Support): Gain a Sylas. When you field Sylas, your team gains 30 starting mana and his ability increases enemies’ maximum mana by 35 percent.
+
+Talon
+
+Talon jumps to the furthest unit from the center of the board with OX-ian Diplomacy, dealing 170/250/370 magic damage. If the strike takes out the enemy unit, Talon heals for 150/200/250 health.
+Talon Hero Augments
+
+    Edgelord (Carry): Gain a Talon. Talon gains 40 ability power. After killing an enemy, Talong restores 40 mana.
+    OX-ian Rage (Support): Gain a Talon. Upon fielding Talon, your team gains 10 percent attack damage and 15 ability power. These bonus stats are tripled upon falling below 50 percent health.
+
+Wukong
+
+Wukong spins his staff with Stone Skin, dealing 140/210/315 damage to nearby enemies while gaining 60/70/80 armor and magic resistance for each enemy hit for three seconds.
+Wukong Hero Augments
+
+    Cyclone (Carry): Gain a Wukong. Wukong gains 40 ability power and increases his ability range by one Hex.
+    Re-Energize (Support): Gain a Wukong. Upon fielding Wukong, your team restores 50 percent of their mana after their first cast each combat.
+
+Two-cost TFT Set Eight champions
+Image via Riot Game
+
+Showcasing more champions in the tier-two slot, there are a total of 14 two-cost TFT Set Eight champions.
+Annie
+
+Annie blasts a cone of fire with Burst Shield, dealing 140/210/335 magic damage to enemies in front of her. She then creates a 300/350/425 health shield on herself for a total of four seconds. Mana 30/90.
+Annie Hero Augments
+
+    Reflector Shield (Carry): Gain an Annie. While Annie’s shield is active, enemies that attack her take 185 magic damage (once every 0.2 seconds).
+    Burning Spirit (Support): Gain an Annie. Upon fielding Annie, your team gains 15 ability power that is tripled while they are below 50 percent health.
+
+Camille
+
+Camille sweeps her leg with Tactical Sweep, dealing 190/200/215 percent of attack damage as physical damage while disarming enemies hit for 1.5/1.8/2 seconds.
+Camille Hero Augments
+
+    Adaptive Defensives (Carry): Gain a Camille. Camille has 20 percent bonus attack damage. The first time she drops below 50 percent health, she gains a shield equal to 600 percent of her attack damage.
+    Hextech Retribution (Support): Gain a Camille. Upon fielding Camille, your team gains 10 percent bonus damage, increasing by an additional five percent whenever an ally dies.
+
+Draven
+
+Draven hurls two axes toward his target’s direction with Whirling Death. The axes deal 65/100/150 damage as physical damage to all enemies in his path, reduced by 25 percent for each enemy the axes pass through. The axes reverse direction at the end of their path, dealing damage to enemies hit along the way back.
+Draven Hero Augments
+
+    League of Draven (Carry): Gain a Draven. Draven gains 30 percent of bonus attack damage. When he eliminates an enemy, there is a 40 percent chance to gain one gold.
+    Ruthless Blades (Support): Gain a Draven. Upon fielding Draven, your team gains a 75 percent critical strike chance.
+
+Ezreal
+
+Ezreal fires an orb with Sabotage at his target, reducing their attack speed by 30/40/50 percent for a total of four seconds. He then fires a shot at the target dealing 230/345/535 magic damage to them and all nearby enemies. Mana is 0/55.
+Ezreal Hero Augments
+
+    Rising Spell Force (Carry): Gain an Ezreal. When Ezreal casts his ability, he gains 20 percent attack speed and 20 ability power for the rest of combat. These stats can stack.
+    Raider’s Spoils (Support): Gain an Ezreal. At the start of combat, your strongest Ezreal grants his nearest ally a temporary Artifact for the rest of combat.
+
+Fiora
+
+Fiora uses her spell En Garde! to lunge at her enemy, dealing 225/225/235 percent attack damage as physical damage to all enemies hit and activates her Duelist’s Soul for eight seconds. While Duelist’s Soul is active, she takes 20 percent less damage and her attacks restore 30/40/55 health. Mana is 30/80.
+Fiora Hero Augments
+
+    Frontline Fencing (Carry): Gain a Fiora. While Fiora’s ability is active, she gains 175 armor and magic resistance.
+    Vitality of the Ox (Support): Gain a Fiora. Upon fielding Fiora, your team heals two percent of their maximum health when they attack.
+
+Jinx
+
+Jinx fires a rocket with Fishbones at her target that explodes on impact, damaging all nearby enemies for  225/335/525 magic damage and stunning them for 1/1.2/1.5 seconds.
+Jinx Hero Augments
+
+    Get Excited! (Carry): Gain a Jinx. When Jinx scores a takedown, she gains 125 percent attack speed and movement speed for seven seconds.
+    Everyone Goes Boom (Support): Gain a Jinx. Upon fielding Jinx, your team gains nine percent attack speed which is tripled after the first enemy dies each combat.
+
+Lee Sin
+
+Lee Sin uses Safeguard to dash toward a nearby ally, shielding both them and himself for health over the course of four seconds. If there are no nearby allies, Lee Sin gains a health shield instead. He then dashes back and deals a percentage of attack damage as 275/275/280 physical damage to his target.
+Lee Sin Hero Augments
+
+    Cleansing Safeguard (Carry): Gain a Lee Sin. Lee Sin’s ability costs 30 less mana to cast. Upon casting, Lee Sin shreds all negative effects and heals 18 percent of his missing health.
+    Invigorate (Support): Gain a Lee Sin. Upon fielding Lee Sin, your team gains 15 percent attack speed which is doubled for a total of four seconds after being shielded.
+
+Malphite
+
+Malphite slams the ground with Ground Slam, dealing 140/210/325 magic damage to nearby enemies and granting himself 100/125/150 armor for a total of four seconds.
+Malphite Hero Augments
+
+    Rock Solid (Carry): Gain a Malphite. Malphite gains ability power equal to 100 percent of his armor and his ability’s armor duration is increased by four seconds.
+    Guardian Spirit (Support): Gain a Malphite. Upon fielding Malphite, your team restores 20 percent of their missing health on cast.
+
+Rell
+
+Rell casts Iron Bond to form a tether between herself and her lowest percent health ally, dealing 140/210/325 magic damage to all enemies between herself and her bound ally. She also grants herself and her bound ally 50/60/70 percent of Rell’s current armor and 50/60/70 percent magic resistance for a total of four seconds. Mana is 80/150.
+Rell Hero Augments
+
+    Hold the Line (Carry): Gain a Rell. Rell gains 70 ability power and 30 percent damage reduction.
+    Channeled Ferromancy (Support): Gain a Rell. Upon fielding Rell, your team gains 20 armor and magic resistance. Each ally gains an additional five when they cast. This can stack.
+
+Sivir
+
+Sivir uses her spell Pizza Delivery to throw a pizza at her target, dealing 400/400/410 percent of attack damage as physical damage. The pizza then splits into slices and gets delivered to the three nearest allies, healing them for health. Mana is 0/70.
+Sivir Hero Augments
+
+    Delivery Tips (Carry): Gain a Sivir. With every second ability cast, Sivir gains one gold with a five percent chance to gain one additional gold.
+    Endless Pizza (Support): Gain a Sivir. Upon fielding Sivir, your team heals 12 percent of their missing health every eight seconds.
+
+Vi
+
+Vi slams the ground with Blast Shield directly in front of her and releases stored energy that grants her a health shield of 275/350/450 for a total of four seconds. The shield reduces the armor of nearby enemies by 50 percent for a total of four seconds and deals a percentage of attack damage as physical damage.
+Vi Hero Augments
+
+    Unrelenting Force (Carry): Gain a Vi. When Vi takes damage, she gains three percent attack damage, three ability power, two armor, and two magic resistance that can stack up to 25 times.
+    Boxing Lessons (Support): Gain a Vi. Upon fielding Vi, your team gains 180 bonus health.
+
+Yasuo
+
+Yasuo uses Steel Tempest to dash to the best position and fire a whirlwind at his target, dealing 210/315/485 magic damage and knocking up units for 1.2/1.5/1.8 seconds. Mana is 0/90.
+Yasuo Hero Augments
+
+    Siphoning Winds (Carry): Gain a Yasuo. Yasuo gains 60 percent Omnivamp.
+    Spirit of the Exile (Support): Gain a Yasuo. Upon fielding Yasuo, allies who start combat with no adjacent allies gain 25 percent attack speed.
+
+Yuumi
+
+Yuumi fires a missile through Prowling Projectile at the furthest target in her attack range (four Hexes), dealing 230/345/535 magic damage to the first unit hit. Mana is 0/50.
+Yuumi Hero Augments
+
+    Predatory Precision (Carry): Gain a Yuumi. Yuumi gains five ability power, a 75 percent critical strike chance, and her ability can critically strike.
+    Zoomies! (Support): Gain a Yuumi. Yuumi grants your team 18 percent attack speed and Nunu 50 percent movement speed.
+
+Three-cost Set Eight champions
+Image via Riot Games
+
+Don’t sleep on the mid-game units as there are a total of 13 TFT champions at tier three in Set Eight.
+Alistar
+
+Alistar uses Pulverize to slam the ground underneath his target, dealing 140/210/350 magic damage and knocking them up for 1.5 seconds. He then roars, healing himself and the lowest health ally champion for 20 percent of his maximum health.
+Alistar Hero Augments
+
+    Behemoth (Carry): Gain an Alistar. Alistar gains 450 health and his ability deals bonus damage equal to 30 percent of his maximum health.
+    Smash! (Flex): Gain an Alistar. Alistar restores 15 mana per second and his ability hits all enemies within one Hex.
+
+Cho’Gath
+
+Cho’Gath has a passive that increases his magic resistance to 75/100/150. Their Cosmic Bellow spell shoots a beam in a forward arc that deals 150/190/240 percent of their magic resistance as magic damage while increasing their maximum mana by 35/50/65 percent until they cast.
+Cho’Gath Hero Augments
+
+    Energy Void (Carry). Gain a Cho’Gath. Each time Cho’Gath’s ability hits an enemy, he steals 70 percent of their magic resistance.
+    Cosmic Barrier (Flex): Gain a Cho’Gath. Upon fielding Cho’Gath, your team gains 35 magic resistance which is doubled for Cho’Gath.
+
+Jax
+
+Jax has a passive that has him leap to his target after every third attack. He deals 110/165/285 bonus magic damage. The bonus damage increases every third attack up to seven times to equal maximum damage at full stacks of 240/360/600. Jax’s Adaptive Strike spell does bonus damage on hit. Stacking damage is 20/30/50.
+Jax Hero Augments
+
+    Relentless Assault (Carry): Gain a Jax. After every third attack, Jax gains 12 percent attack speed for the rest of combat. The attack speed can stack.
+    Evasion (Support): Gain a Jax. Upon fielding Jax, your team gains 100 percent dodge chance for two seconds the first time they fall below 50 percent health each combat.
+
+Kai’Sa
+
+Kai’Sa has a passive where her attacks apply plasma. Her next attack against a target with two stacks of plasma deals 150/225/370 magic damage. Kai’Sa’s spell Starcharged has her gain 40/45/55  percent attack speed for 10 seconds. The attack speed bonus can stack.
+Kai’Sa Hero Augments
+
+    Multi-Shot (Carry): Gain a Kai’Sa. Every three attacks, Kai’Sa fires a bonus attack at a nearby enemy.
+    Star-Crossed (Support): Gain a Kai’Sa. Kai’Sa grants 100 percent of her ability’s attack speed bonus to her nearest ally.
+
+LeBlanc
+
+LeBlanc fires 5/6/8 sigils with Sigil of Malice at her target with each dealing 85/105/130 magic damage. If the target perishes, she continues casting at the nearest target and casts one more sigil.
+LeBlanc Hero Augments
+
+    Aim Assist (Carry): Gain a LeBlanc. For every three sigils fired by LeBlanc’s ability, she fires an additional sigil at the lowest health enemy.
+    Mirror Image (Support): Gain a LeBlanc. At the start of combat, LeBlanc creates a 70 percent health, item-less clone of her nearest ally.
+
+Nilah
+
+Nilah whirls her whip with Apotheosis, dealing magic damage to nearby enemies while healing herself 250/300/350 and her allies over the course of one second. She finishes with a burst that deals 90/135/225 magic damage. Mana is 50/125.
+Nilah Hero Augments
+
+    Gifted (Carry): Gain a Nilah. Nilah gains 50 ability power. At the start of combat, your strongest Nilah grants her nearest ally a temporary copy of one of her normal items.
+    Jubilant Veil (Support): Gain a Nilah. At the start of combat, Nilah and her two nearest allies gain immunity to crowd control for four seconds.
+
+Rammus
+
+Rammus has a passive that gives them 60/90/150 increased armor. Their spell, Sand Slam, has Rammus leap toward the largest group of nearby enemies, dealing 150/175/205 percent of their armor as magic damage. The spell also knocks up enemies for 1.2 seconds and reduces their attack damage by 40 percent for a total of four seconds.
+Rammus Hero Augments
+
+    Spiked Shell (Carry): Gain a Rammus. When struck by an attack, Rammus deals magic damage equal to 150 percent of his armor to all nearby enemies (once every two seconds).
+    Armored-dillo (Flex): Gain a Rammus. Upon fielding Rammus, your team gains 35 armor which is doubled for himself.
+
+Riven
+
+Bunny Blade gives Riven a shield of 325/400/500 for a total of four seconds and empowered her next three basic attacks with 90/135/225 bonus magic damage. If her attack target currently has less health than her, Riven’s bonus damage is increased by 100 percent. Mana is 30/90.
+Riven Hero Augment
+
+    Reverberation (Carry): Gain a Riven. Riven gains 40 ability power and her ability is additionally cast on her lowest health ally.
+    Triumphant Return (Support): Gain a Riven. At the start of combat, Riven grants herself and adjacent allies a shield for 15 seconds, equal to 40 percent of their maximum health.
+
+Senna
+
+Senna fires a laser with Piercing Darkness in the direction of a nearby enemy, dealing 175/185/190 percent attack damage as physical damage to all enemies in a line. Base damage is 45/65/125. Mana is 0/70.
+Senna Hero Augments
+
+    Absolution (Carry): Gain a Senna. Senna gains 30 percent attack speed and an additional 10 percent every five seconds.
+    Corps Formation (Flex): Gain a Senna. At the start of combat, Senna grants herself and adjacent allies 30 percent attack damage.
+
+Sona
+
+Sona uses Crescendo Sequence to cycle between three phases that fire two beams.
+
+    Phase one: Beam deals 150/225/430 magic damage to the closest enemies
+    Phase two: Heals the lowest health allies
+    Phase three: Deals 100/150/300 magic damage and stuns the closest enemies for 1.5 seconds.
+
+Sona Hero Augments
+
+    Power Grid (Carry): Gain a Sona. Sona gains 10 ability power and ability fires one additional beam.
+    Undercurrent (Support): Gain a Sona. At the start of combat, your strongest Sona grants her two nearest allies 50 mana.
+
+Vayne
+
+Vayne fires a bolt with Silver Bolt at her target, dealing 130/130/140 percent attack damage as true damage. Vayne’s base spell damage is 18/25/45.
+Vayne Hero Augments
+
+    Spread Shot (Carry): Gain a Vayne. Vayne’s ability additionally fires at two nearby enemies dealing 75 percent damage.
+    Into the Night (Support): Gain and Edge of Night and a Vayne. Upon fielding Vayne, allies equipped with Edge of Night gain 35 percent attack speed.
+
+Vel’Koz
+
+Vel’Koz freezes the enemy champion that has dealt the most damage this round for 2/2.25/2.5 seconds with Frozen Tomb while also dealing 275/415/680 magic damage. Mana is 0/70.
+Vel’Koz Hero Augments
+
+    Frostburn (Carry): Gain a Vel’Koz. Vel’Koz’s ability deals an additional 300 percent of its damage over the next 20 seconds. This can stack.
+    Frozen Tundra (Support): Gain a Vel’Koz. At the start of combat, Vel’Koz slows the attack speed of all enemies by 30 percent for eight seconds.
+
+Zoe
+
+Trouble Bubble has Zoe launch a bubble at the nearest non-infected enemy’s location, infecting all enemies hit with a virus that deals 390/585/975 magic damage over the course of 10 seconds. Infected enemies take 10/10/20 percent more damage. Mana is 0/30.
+Zoe Hero Augments
+
+    Double Bubble (Carry): Gain a Zoe. Zoe’s ability launches a second bubble at a different target, dealing 60 percent damage.
+    Sleepy Time (Support): Gain a Zoe. At the start of combat, Zoe puts to sleep the three lowest health enemies, stunning them for a total of four seconds.
+
+Four-cost Set Eight champions
+Image via Riot Games
+
+Players have a wide variety of tier-four champions to choose as primary carriers in Set Eight as there are a total of 12 TFT four-cost units.
+Aurelion Sol
+
+Aurelion Sol calls down 4/4/6 meteors with Meteor Shower on random enemies that explode on impact. Each meteor deals 145/215/435 magic damage and applies a burn for 10 seconds, dealing 10 percent of the target’s maximum health as true damage and reducing incoming healing by 25 percent. Mana 30/90.
+Aurelion Sol Hero Augments
+
+    Extinction Event (Carry): Gain an Aurelion Sol. Aurelion Sol gains 10 ability power and his ability’s meteors are larger.
+    Velocity Impact (Support): Gain an Aurelion Sol. His ability stuns enemies hit for 1.75 seconds.
+
+Bel’Veth
+
+Endless Banquet has Bel’Veth dash around her target and hit them with a fury of attacks at 25 percent of her attacks per second, with each dealing percent of attack damage as 75/75/200 physical damage. Mana is 0/30.
+Bel’Veth Hero Augments
+
+    Back for Blood (Carry): Gain a Bel’Veth. Bel’Veth gains 25 percent Omnivamp which is tripled while under 50 percent health.
+    Voidmother (Support): Gain a Bel’Veth. At the start of combat, your strongest Bel’Veth creates two Voidspawns with 60 percent of their normal health in front of her.
+
+Ekko
+
+Ekko’s spell Star Diver grants him a 550/700/3000 shield for five seconds and taunts nearby enemies. Upon the shield breaking, Ekko emits a time field to nearby enemies dealing magic damage and slowing their attack speed by 50 percent for two seconds. Mana is 70/140.
+Ekko Hero Augments
+
+    Resonance (Carry): Gain an Ekko. Ekko’s ability hits all enemies within two Hexes and deals additional damage equal to 300 percent of his magic resistance.
+    Chronobreak (Support): Gain an Ekko. Upon fielding Ekko, he stuns all enemies for three seconds after 10 seconds of combat.
+
+Miss Fortune
+
+Bullet Time has Miss Fortune fire eight waves of bullets in a cone at her target over the course of two seconds. Each wave deals 40/60/180 magic damage to the first target hit. Enemies hit by bullets in short succession take 20/30/100 magic damage for each bullet instead. Mana is 0/105.
+Miss Fortune Hero Augments
+
+    Bunny Mercenary (Carry): Gain a Miss Fortune. Miss Fortune’s ability covers a wider cone and she gains a 200 health shield while channeling.
+    Make it Rain (Support): Gain a Miss Fortune. After every three rounds of combat having Miss Fortune on the battlefield, she grants 20 gold.
+
+Samira
+
+Samira rapidly fires bullets with her Flair spell that deals 480/490/1250 percent of attack damage as physical damage. The bullets ricochet to nearby enemies, dealing 20 percent reduced damage. Base damage is 80/100/666.
+Samira Hero Augments
+
+    Style and Flair (Carry): Gain a Samira. Samira gains 30 percent bonus attack damage. When she scores a takedown, Samira restores 30 percent of her maximum mana.
+    Daredevil (Support): Gain a Samira. For every 10 Tactician health missing, Samira grants your team 3.5 percent attack speed.
+
+Sejuani
+
+Cyro Grenade has Sejuani throw a grenade at the closest enemy with the grenade exploding after a two-second delay. Enemies within a three-Hex radius are dealt magic damage and are stunned for 1.5/2/8 seconds.
+Sejuani Hero Augments
+
+    Glacial Prison (Carry): Gain a Sejuani. Sejuani gains 25 armor and magic resistance and her ability hits the entire board.
+    Shatter (Support): Gain a Sejuani. Sejuani’s ability stuns for one second longer and enemies take 20 percent more damage while stunned.
+
+Sett
+
+At the start of combat, Sett charges up Mecha SLAM!, becoming immune to crowd control and gaining a shield for two seconds. After the shield breaks or at the end of its duration, Sett unleashes a blast in a cone at the most enemies in range, dealing 280/300/600 percent attack damage as physical damage to all enemies inside. The damage increases up to three-star depending on how long his spell is charged for. Mana is 80/180.
+Sett Hero Augments
+
+    Punch Protocol (Carry): Gain a Sett. Sett gains 40 armor and magic resistance. His ability knocks back all enemies near Sett, destroying them if knocked off the battlefield.
+    Regenerative Shields (Support): Gain a Locket of Solari and a Sett. After the shields of Sett’s team break up, he recharges them at 40 percent strength for three seconds.
+
+Soraka
+
+Starcall has Soraka launch a star at her target. Each star deals 225/340/750 magic damage and heals Soraka for eight percent of her maximum health. Every three casts has Soraka launch 3/3/4 stars at the nearest enemy instead. Explosion damage is 200/300/900.
+Soraka Hero Augments
+
+    Upgrade Berserk (Carry): Gain a Soraka. After 15 seconds of combat, all of Soraka’s ability casts are empowered.
+    Infuse (Support): Gain a Soraka. Every five seconds, Soraka grants your team 20 mana.
+
+Taliyah
+
+Taliyah summons spiraling rocks with Weaver’s Wall in a line at enemies, dealing magic damage to all enemies hit. After a brief delay, the wall explodes, dealing additional magic damage to nearby enemies.
+Taliyah Hero Augments
+
+    Stoneweaver (Carry): Gain a Taliyah. Taliyah gains 20 ability power and her ability deals 20 percent more damage to enemies above 1,600 maximum health.
+    Be the Stone (Support): Gain a Taliyah. At the start of combat, Taliyah shields the three highest health allies for 50 percent of their maximum health.
+
+Viego
+
+Viego becomes unstoppable with Heartbreaker, leaping toward the largest cluster of nearby enemies and slamming his sword down in front of the enemy with the lowest health, dealing 260/390/850 magic damage to the primary target and 125/185/425 AOE magic damage to enemies nearby. If Viego takes out an enemy, he casts again with 20/20/10 reduced damage. Mana is 0/50.
+Viego Hero Augments
+
+    Heartstopper (Carry): Gain a Viego. Viego gains 10 ability power and his ability deals up to 50 percent increased damage based on the enemy’s missing health.
+    Partners in Crime (Support): Gain a Viego. Upon fielding Viego, your team gains 12 percent Omnivamp which is tripled when two or less allies remain.
+
+Zac
+
+Zac’s passive has him split into 2/2/4 smaller Zac blobs with 40/40/50 percent of Zac’s maximum health upon dying. The blobs taunt nearby enemies. Zac’s spell, Symbiotic Split has Zac bounce into the air and slam down on the board, dealing 25 percent of his current health as 100/150/1500 magic damage to nearby enemies while healing himself for 30 percent of his missing health.
+Zac Hero Augments
+
+    Supersize (Carry): Gain a Zac. Zac gains 1,000 bonus health and is immune to crowd control.
+     Elastic Slingshot (Support): Gain a Zac. At the start of combat, Zac flings his two nearest allies to the enemy backline, knocking up enemies upon impact for three seconds.
+
+Zed
+
+Zed teleports behind his target and marks his enemy, shredding 20/30/100 armor for six seconds. He then activates Empowered Kill Mode for 7/7/7 seconds. While active, Zed’s attacks deal 40/60/300 bonus physical damage. And every third attack damages all adjacent enemies, dealing 125 percent of attack damage as physical damage.
+Zed Hero Augments
+
+    Shadow Jutsu (Carry): Gain a Zed. Zed gains 15 percent bonus attack damage. When he kills an enemy, Zed gains 15 percent of their attack damage for the rest of combat.
+    Contempt for the Weak (Support): Gain a Zed. Upon fielding Zed, your team gains seven percent attack speed. Upon scoring a takedown, they dash to a new one and triple this bonus for 2.5 seconds.
+
+Five-cost Set Eight champions
+Image via Riot Games
+
+Late-game champions remain a powerful addition in TFT, featuring a total of 8 five-cost units in Set Eight.
+Aphelios
+
+Placing Aphelios on the board gives players an option to choose a weapon for Aphelios. Mana is 40/140. Base spell damage for Aphelios is 55/85/2000.
+
+    Gravitum (Purple weapon): Attack damage ratio 130/130/800 percent, base damage is 45/75/500, and stun duration is 1.25/2/15 seconds.
+    Infernum (Blue weapon): Attack damage ratio 275/275/1500 percent and base damage is 55/85/2000.
+    Severum (Red weapon): Attack damage ratio 300/300/2000 percent and base damage is 55/85/2000.
+
+Aphelios Hero Augments
+
+    Armor Piercing Rounds (Carry): Gain an Aphelios. Aphelios’ attacks reduce the target’s armor by 20 percent for the rest of combat. This can stack.
+    Locked and Loaded (Support): Gain an Aphelios. Upon fielding Aphelios, your team gains 10 percent attack damage and an additional five percent every five seconds.
+
+Fiddlesticks
+
+Fiddlesticks uses Dark Harvest to teleport into the largest clump of enemies and fears them for 1/1/3 seconds. For the next 5/5/30 seconds, Fiddlesticks drains the life from nearby enemies, obtaining 40 AP per soul and dealing 100/150/900 magic damage per second while healing himself for 20 percent of the damage dealt. Mana 66/66.
+Fiddlesticks Hero Augments
+
+    Traumatic Memories (Carry): Gain a Fiddlesticks. When an ally dies, Fiddlesticks gains 350 bonus health for the rest of combat.
+    Absolute Corruption (Support): Gain a Fiddlesticks. At the start of combat, Fiddlesticks grants its nearest ally 30 ability power and allows them to share its Corrupted souls.
+
+Janna
+
+Janna uses Twister! to target the largest group of units. Enemy units caught by the twister are knocked up for 0.5 seconds. When the twister stops, it expands and all nearby enemies are knocked up for 1.5/2/3 seconds and take 100/150/3000 damage per second over the course of three seconds.
+Janna Hero Augments
+
+    Rapid Reporting (Carry): Gain a Janna. Janna’s ability restores 15 mana per enemy hit.
+    Exaggerated Reporting (Support): Gain a Janna. All Forecaster’s effects are increased by 100 percent.
+
+Leona
+
+Leona uses Deus Ex Machina to call an orbital strike on her target. After a short delay, a laser fires on the target, dealing 450/675/5000 true damage per second to the target and dealing 80/120/2000 magic damage to nearby enemies. Mana is 0/75.
+Leona Hero Augments
+
+    Perfected Solar Flare (Carry): Gain a Leona. Leona gains 30 ability power and her maximum mana is reduced by 30
+    Eclipse Prime (Support): Gain a Leona. Upon fielding Leona, your team reduces all incoming damage by 20.
+
+Mordekaiser
+
+Moredekaiser transports the board into his realm with Skylines for 4/4/6 seconds, shredding the magic resistance of all enemies by 50/50/69 percent. He then summons a building behind him and slams it onto the board, dealing 420/630/5555 magic damage to all enemies hit. Mana 60/150.
+Mordekaiser Hero Augments
+
+    Not so Heavy Metal (Carry): Gain a Mordekaiser. Mordekaiser gains 20 ability power every four seconds.
+    Obliterate (Support): Gain a Mordekainser. At the start of combat, Mordekaiser reduces enemy armor and magic resistance by 20 percent.
+
+Nunu & Willump
+
+Nunu and Willump have a passive that has them slowly roll a ball around the board, dealing 125/190/2000 magic damage to all enemies it passes through while gaining 30/30/120 mana per second. Their spell, Biggest Roboball Ever! grows the ball and increases its speed. It also increases the damage dealt by 40 percent and Nunu gains 100 MS for every 100 percent bonus attack speed.
+Nunu & Willump Hero Augments
+
+    Contagious Laughter (Carry): Gain a Nunu. Nunu gains 30 ability power and restores 10 mana per second.
+    They See Me Rolling (Support): Gain a Nunu. Upon fielding Nunu, your team gains 10 ability power and an additional five every five seconds.
+
+Syndra
+
+Syndra uses Force of Will to enshroud a random unit on your bench in an orb, granting them a 200/600/4000 shield and flinging them onto the board towards the closest enemy. The orb knocks up the and deals 100/300/2000 magic damage to any enemies hit. Traits are unaffected, except Corrupted. Mana is 70/125.
+Syndra Hero Augments
+
+    Power Overwhelming (Carry): Gain a Syndra. Allies summoned by Syndra’s ability gain 80 percent attack damage—and 80 ability power, armor, and magic resistance.
+    Empowered Reserves (Support): Gain a Syndra. Upon fielding Syndra, your team gains five ability power per unit on your bench.
+
+Urgot
+
+Urgot uses his spell Undertow to summon a gigantic wave behind his enemies that moves towards him, dealing 20/30/80 percent of their maximum health as magic damage. The wave’s force knocks enemies forward one Hex and stuns them for 1.2/1.5/5 seconds. For each champion hit, Urgot has a 15/25/100 percent chance to dredge up treasure and a 15/25/75 percent chance to drop an item component.

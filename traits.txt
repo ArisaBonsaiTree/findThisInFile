@@ -1,0 +1,218 @@
+Ace (1 or 4)
+
+The Ace trait is only active when players have one or four Ace units on the board. An Ace champion will execute an enemy when it drops below a health threshold.
+
+    One: Execute enemies under 15 percent health
+    Four: Execute enemies under 30 percent health
+
+Set Eight champions with the Ace trait are Draven, Miss Fortune, Samira, and Mordekaiser.
+A.D.M.I.N. (2/4/6)
+
+The A.D.M.I.N. trait allows players to choose a cause and effect upon activating the trait, personalizing the trait. An additional effect and bonus outputs take place at higher breakpoints.
+
+    Two: Choose the cause and effect for the A.D.M.I.N. trait
+    Four: Choose an additional effect to go with the original cause and effect
+    Six: Outputs from effects are increased by 100 percent
+
+The A.D.M.I.N. Set Eight champions are Blitzcrank, Camille, LeBlanc, and Soraka.
+Aegis (2/3/4/5)
+
+Aegis units provide magic resistance to the team while gaining more for themselves. Magic resistance increases for both the team and Aegis units at each breakpoint.
+
+    Two: 20 magic resistance for the team and 50 for Aegis units
+    Three: 40 magic resistance for the team and 80 for Aegis units
+    Four: 60 magic resistance for the team and 120 for Aegis units
+    Five: 90 magic resistance for the team and 170 for Aegis units
+
+Champions with the Aegis trait are Vi, Alistar, Ekko, and Leona.
+Anima Squad (3/5/7)
+
+Anima Squad units build up Fame upon taking out an enemy unit. Champions with the Anima Squad trait gain attack damage, ability power, and plus-six health according to their shared Fame. Power increases at each breakpoint. Anima Squad champions can’t gain Fame during PvE rounds and Target Dummies don’t grant Fame either.
+
+    Three: 10 percent attack damage and ability power
+    Five: 30 percent attack damage and ability power
+    Seven: 55 percent attack damage and ability power
+
+The Anima Squad champions are Nasus, Sylas, Jinx, Vayne, Riven, and Miss Fortune.
+Arsenal (Unique to Aphelios)
+
+The Arsenal trait allows players to pick the weapons for Aphelios upon placing him on the board. Weapons change the spell effects for Aphelios.
+Brawler (2/4/6/8)
+
+Brawler units gain additional health that increases at each breakpoint.
+
+    Two: 20 percent maximum health
+    Four: 40 percent maximum health
+    Six: 65 percent maximum health
+    Eight: 99 percent maximum health
+
+Brawler TFT Set Eight champions are Blitzcrank, Renekton, Lee Sin, Vi, Jax, Riven, and Sejuani.
+Civilian (1/2/3)
+
+Civilian units in Set Eight inspire allies to fight harder to protect them by gaining mana every two seconds the longer they remain alive. Mana increases at each breakpoint.
+
+    One: Two mana
+    Two: Four mana
+    Three: 10 mana
+
+Civilian champions in TFT Set Eight are Galio, Sivir, and Janna.
+Corrupted (Unique to Fiddlesticks)
+
+At the start of combat, Fiddlesticks is dormant. Upon allies dying, Fiddlesticks uses the Corrupted trait to absorb their soul, granting him 15 ability power. Upon falling below 40 percent health, or when all allies have perished, Fiddlesticks will exit their dormant state and enter combat.
+Defender (2/4/6)
+
+Shortly after the start of combat, Defender units taunt nearby enemies. All allies gain bonus armor and Defender units gain more. Armor increases at each breakpoint.
+
+    Two: 30 armor for the team and 60 for Defender units
+    Four: 80 armor for the team and 120 for Defender units
+    Six: 200 armor for the team and 200 for Defender units
+
+Chamions with the Defender trait are Poppy, Wukong, Rell, Riven, and Sett
+Gadgeteen (3/5)
+
+During each round of combat, Gadgeteen champions generate a random modified weapon that can be equipped on any unit. The weapons will fall apart after one round of use. Gadgeteen champions won’t make new weapons to replace the ones left on the bench. The number of weapons created increases at breakpoints.
+
+A “breadcrumb” will show up if too many Gadgeteen items are on a player’s bench, preventing a new item from getting created. Items created by an active Gadgeteen trait go away when the trait is deactivated. They also decay if left on the bench and during PvE rounds.
+
+    Three: Create one weapon every round
+    Five: Create two weapons every round
+
+Gadgeteen champions in TFT Set Eight are Lulu, Poppy, Annie, Zoe, and Nunu.
+Duelists (2/4/6/8)
+
+All Duelist units gain attack speed from basic attacks, up to 12 stacks. Attack speed per stack increases with each breakpoint.
+
+    Two: Five percent attack speed per stack
+    Four: Nine percent attack speed per stack
+    Six: 15 percent attack speed per stack
+    Eight: 24 percent attack speed per stack
+
+Champions with the Duelist trait are Gangplank, Kayle, Fiora, Yasuo, Nilah, Vayne, and Zed.
+Forecaster (Unique to Janna)
+
+Able to read the weather, Janna uses the Forecaster trait to buff all adjacent allies depending on the current weather conditions, which changes with each game.
+
+    Rainy: Starting mana 20/40/100
+    Windy: AD and AP per five seconds 12/25/150
+
+Hacker (2/3/4)
+
+At the start of combat, a Hacker unit summons an H4ckerr!m that takes the champion to the enemy backline. The rider can’t be targeted for the first “X” seconds of combat. At the time of writing, “X” has yet to be determined. All Hacker units gain Omnivamp. There are no breakpoints for the Hacker trait other than the activation at two.
+
+    Two: 15 percent Omnivamp
+    Three: 40 percent Omnivamp
+    Four: 70 percent Omnivamp
+
+Hacker champions are LeBlanc, Zoe, and Zed.
+Heart (2/4/6)
+
+Upon casting a spell, Heart units grant all allies AP for the rest of combat. Ability power given to allies increases at each breakpoint.
+
+    Two: Four AP
+    Four: Seven AP
+    Six: 10 AP
+
+Champions with the Heart trait in Set Eight are Lulu, Lee Sin, Yuumi, Sona, Soraka, and Syndra.
+LaserCorps (3/6/9)
+
+Each LaserCorps champion in TFT Set Eight is assigned a combat drone. Upon attacking or getting hit by an attack, the drone has a 50 percent chance to deal magic damage to the LaserCorps unit’s target. There is a 0.5-second cooldown. Upon a LaserCorps unit perishing, the drone is re-assigned immediately to the nearest living LaserCorps champion. Damage from a drone increases at each breakpoint.
+
+    Three: Drone lasers deal 60 magic damage
+    Six: Drone lasers deal 150 magic damage
+    NIne: Drone padres deal 200 magic damage and each LaserCorps unit gets another drone
+
+LaserCorps champions are Ashe, Renekton, Yasuo, Senna, Sejuani, Zed, and Mordekaiser.
+Mascot (2/4/6/8)
+
+Upon perishing on the battlefield, Mascot champions retreat to the sideline to cheer on their team. Allies regenerate a percentage of maximum health every two seconds, which is increased by one percent for each cheering Mascot unit. Mascot units regenerate double. Regeneration increases at each breakpoint.
+
+    Two: Regenerate 1.5 percent of health
+    Four: Regenerate 2.75 percent of health
+    Six: Regenerate 5.5 percent of health
+    Eight: Regenerate 10 percent of health
+
+Mascot units in TFT Set Eight are Galio, Nasus, Malphite, Yummi, Alistar, and Nunu.
+Mecha: PRIME (3/5)
+
+At the start of combat, players designate a PRIME, which combines with the two closes Mecha units, taking a portion of their base health and attack damage. Health and attack damage increases at each breakpoint. Health transfer is 100 percent.
+
+    Three: The PRIME gains 60 ability power and 45 percent attack damage
+    Five: All Mechs gain 35 ability power and 50 percent attack damage while the PRIME gains double this amount.
+
+Champions that have the Mecha: PRIME trait are Wukong, Draven, Jax, Sett, and Leona.
+Ox Force (2/4/6/8)
+
+All Ox Force champions gain attack speed that increases with their missing health. Attack speed percentage ranges increase at each breakpoint. The first time an Ox Force unit would die during combat, they become Invulnerable for one second.
+
+    Two: 15 to 30 percent attack speed
+    Four: 35 to 80 percent attack speed
+    Six: 70 to 150 percent attack speed
+    Eight: 125 to 300 percent attack speed
+
+Ox Force Set Eight champions are Talon, Annie, Fiora, Alistar, Virgo, and Aphelios.
+Prankster (2/3)
+
+Prankster units create a Target Dummy to escape attacks. Target Dummies have a health of 350.
+
+    Two: When a Prankster unit falls below 50 percent health, it spawns a target dummy, dashes to a safe location, and restores 350 health.
+    Three: The enemy who kills a target dummy is stunned for 1.5 seconds.
+
+Champions with the Prankster trait are Jinx, Zoe, and Ekko.
+Recon (2/3/4)
+
+Recon units gain attack range. Prior to casting, if there is an enemy in a nearby Hex, the Recon unit will dash to safety while gaining a bonus critical strike chance. The critical strike chance increases at each breakpoint.
+
+    Two: 10 percent critical strike chance
+    Three: 75 percent critical strike chance
+    Four: 100 percent critical strike chance and all spells from Recon units can Crit.
+
+Champions with the Recon trait are Ashe, Ezreal, Kai’Sa, and Vayne.
+Renegade (3/6)
+
+Renegade champions deal a percentage of damage that increases at breakpoints. The last Renegade unit alive during combat deals more.
+
+    Three: 35 percent bonus damage
+    Six: 60 percent bonus damage
+
+Renegade Set Eight TFT champions are Sylas, Talon, Camille, Viego, and Leona.
+Spellslinger (2/4/6/8)
+
+Spellslinger units replace their next attack with a meteor orb of magic that they fling at a random target every six seconds. The meteor deals 50 percent of its ability power as magic damage. Spellslinger units gain increased AP with each breakpoint.
+
+    Two: 25 AP
+    Four: 60 AP
+    Six: 95 AP
+    Eight: 140 AP and 150 percent meteor damage
+
+Champions with the Spellslinger trait are Lux, Annie, LeBlanc, Sona, and Taliyah.
+Star Guardian (3/5/7/9)
+
+Star Guardian units generate mana for the team at each breakpoint.
+
+    Three: 40 percent additional mana
+    Five: 70 percent additional mana
+    Seven: 120 percent additional mana
+    Nine: 200 percent additional mana
+
+Champions that have the Star Guardian trait are Lux, Rell, Yummi, Kai’Sa, Nilah, Ekko, Taliyah, and Syndra.
+Supers (3)
+
+There are no breakpoints for the Supers trait. Units that have the Supers trait grant allies 18 percent bonus damage at the start of combat. For every three-star unit on the team, the bonus damage percentage is increased by three percent.
+
+Champions with the Supers trait are Gangplank, Lee Sin, and Malphite.
+Sureshot (2/4)
+
+Sureshot champions gain attack damage for the remainder of combat, every five seconds, increasing with each breakpoint.
+
+    Two: Eight percent AD
+    Four: 20 percent AD
+
+Champions with the Sureshot trait are Sivir, Senna, Samira, and Aphelios.
+Threat
+
+A TFT Set Eight champion with the Threat trait is unique. The Threat trait isn’t technically a trait as other Threat units don’t synergize or increase bonuses. Players can field any number of Threat units as they will act individually, having more power than other Set Eight champions.
+
+Champions that have the Threat trait are Cho’Gath, Rammus, Vel’Koz, Aurelion Sol, Bel’Veth, Zac, Fiddlesticks, and Urgot.
+Underground (3/5)
+
+Underground champions in TFT Set Eight earn progress towards completing a heist with each combat win or loss. Players must crack 10 locks to complete a heist. Upon completion, players may choose to take the rewards and start over or continue to get better rewards. Progress toward completing the heist with a win or loss increases at breakpoints.

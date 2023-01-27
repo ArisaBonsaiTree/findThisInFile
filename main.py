@@ -20,6 +20,8 @@ file_two = open("getchamps.txt", encoding="utf8")
 lines = file_two.readlines()
 
 
+
+
 # We want to read a file and get all the champs and get their cost
 
 for line in lines:
